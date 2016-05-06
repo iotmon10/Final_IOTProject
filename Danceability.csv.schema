@@ -1,0 +1,30 @@
+{
+  "excludedAttributeNames": [], 
+  "version": "1.0", 
+  "dataFormat": "CSV", 
+  "rowId": null, 
+  "dataFileContainsHeader": true, 
+  "attributes": [
+    {
+      "attributeName": "number of people", 
+      "attributeType": "NUMERIC"
+    }, 
+    {
+      "attributeName": "light", 
+      "attributeType": "NUMERIC"
+    }, 
+    {
+      "attributeName": "motion", 
+      "attributeType": "NUMERIC"
+    }, 
+    {
+      "attributeName": "time", 
+      "attributeType": "NUMERIC"
+    }, 
+    {
+      "attributeName": "danceability", 
+      "attributeType": "NUMERIC"
+    }
+  ], 
+  "targetAttributeName": "danceability"
+}
