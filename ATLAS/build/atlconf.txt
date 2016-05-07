@@ -1,9 +1,0 @@
-0 '/usr/bin/i586-poky-linux-gcc' '-O -fomit-frame-pointer -msse3 -m32'
-1 '/usr/bin/i586-poky-linux-gcc' '-O -fomit-frame-pointer -msse3 -m32'
-2 '/usr/bin/i586-poky-linux-gcc' '-O -fomit-frame-pointer -msse3 -m32'
-3 '/usr/bin/i586-poky-linux-gcc' '-O -fomit-frame-pointer -msse3 -m32'
-4 '/usr/bin/i586-poky-linux-gcc' '-O -fomit-frame-pointer -msse3 -m32'
-5 '/usr/bin/i586-poky-linux-gcc' '-O -fomit-frame-pointer -m32'
-6 '/usr/bin/i586-poky-linux-gcc' '-O -fomit-frame-pointer -msse3 -m32'
-7 '/usr/bin/i586-poky-linux-gcc' '-O -fomit-frame-pointer -msse3 -m32'
-F2CNAME,F2CINT,F2CSTRING=(0,0,0)

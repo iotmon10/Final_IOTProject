@@ -1,9 +1,0 @@
-Linux edison 3.10.17-poky-edison+ #2 SMP PREEMPT Mon Mar 14 15:26:16 PDT 2016 i686 GNU/Linux
-i586-poky-linux-gcc (GCC) 4.9.1
-Copyright (C) 2014 Free Software Foundation, Inc.
-This is free software; see the source for copying conditions.  There is NO
-warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-
-ERROR 700 DURING Stage 1 install!!.  CHECK INSTALL_LOG/Stage1.log FOR DETAILS.
-Error report error_<ARCH>.tgz has been created in your top-level ATLAS
-directory.  Be sure to include this file in any help request.
